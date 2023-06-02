@@ -1,0 +1,4 @@
+.venv
+data
+*.code-workspace
+.DS_Store
